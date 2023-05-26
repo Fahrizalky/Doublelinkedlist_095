@@ -25,3 +25,7 @@ public:
 	void searchData();
 
 };
+
+void DoubleLinkedList::addNode() {
+	
+}
